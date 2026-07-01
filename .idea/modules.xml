@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/model-rl-simulation.iml" filepath="$PROJECT_DIR$/.idea/model-rl-simulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/agentl-rl-simulation.iml" filepath="$PROJECT_DIR$/.idea/agentl-rl-simulation.iml" />
     </modules>
   </component>
 </project>
